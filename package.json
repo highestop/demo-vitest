@@ -2,6 +2,7 @@
   "name": "demo-vitest",
   "version": "0.0.0",
   "packageManager": "yarn@1.22.19",
+  "private": "true",
   "devDependencies": {
     "typescript": "^4.7.4",
     "vite": "^2.9.13",
